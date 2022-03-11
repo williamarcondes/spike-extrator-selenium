@@ -46,4 +46,8 @@ class ExtratorLicitacao:
         self.driver.close()
 
 
-ExtratorLicitacao().raspar_licitacao(id="1538690")
+# ExtratorLicitacao().raspar_licitacao(
+#     url="http://www.imprensaoficial.com.br/ENegocios/MostraDetalhesLicitacao_14_3.aspx?IdLicitacao=1538690#13/10/2021"
+# )
+
+# ExtratorLicitacao().raspar_licitacao(id="1538690")
